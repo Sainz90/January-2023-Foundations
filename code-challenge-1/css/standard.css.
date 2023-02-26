@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#kitten {
+    background-image: url('../image https://media.discordapp.net/attachments/1062883384537387029/1074040726125543494/kitten.jpg?width=1662&height=935);
+    background-size cover;
+}
